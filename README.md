@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sikka web  a pour but de faciliter et securiser les transactions de paiements  en CI  par tooutes les couches sociales
 =>Eviter les problemes auxquel sont confrontes nos commercants 
 =>Securisant car on a plu a manipuler physiquement la liquidité et tout est viré sur son compte.  
@@ -25,3 +26,6 @@
 
  
 
+=======
+# sikka web  a pour but de faciliter et securiser les transactions de paiement  en CI utilisable par toutes les couches sociales  
+>>>>>>> b73f498787531395306d90250e8036b8a0108975
