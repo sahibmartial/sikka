@@ -10,19 +10,21 @@
 
 #Abonne Sikka doit d'abord s'enregistrer sur la page en fournissant ses informations personnelles.
 
-#page register
+#page register:
 #Une fois enregister un message est envoyé au numero renseigné , le corps du message contient un code.
-#Authentification
+
+#Authentification:
 #Code a confirmer ainsi un dexieme message contenant ses credentials sikka.
 #login 
 #pwd .
 #Une fois l'abonne a ses credentials il peut alors se connecter a l'application sikka.
 
-#Page de connexion.
+#Page de connexion:
 #Entrez son login.
 #pwd.
 #Après quoi on se retrouve la page pour realiser les transactions financières.
 
+#comptabilité
 #Pour visualiser le suivi de son activite page compta.
 
 
